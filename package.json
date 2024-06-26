@@ -1,0 +1,14 @@
+{
+  "name": "secondpack",
+  "version": "1.0.0",
+  "description": "my second package!",
+  "main": "index.js",
+  "scripts": {
+    "Start": "node index.js"
+  },
+  "author": "Ravi Shankar",
+  "license": "ISC",
+  "dependencies": {
+    "secondpack": "^1.0.0"
+  }
+}
